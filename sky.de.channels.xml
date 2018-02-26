@@ -1,8 +1,4 @@
-<settings>
 
-<timespan>2</timespan>
-
-<update></update>
   <channels>
     <channel update="i" site="sky.de" site_id="2" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
     <channel update="i" site="sky.de" site_id="498" xmltv_id="Sky Atlantic+1 HD">Sky Atlantic+1 HD</channel>
@@ -420,4 +416,3 @@
     <channel update="i" site="vodafone.de" site_id="2129" xmltv_id="Zee.One">Zee.One</channel>
 
   </channels>
-</settings>
