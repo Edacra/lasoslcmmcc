@@ -49,7 +49,7 @@ http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/549.ts
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2478.ts
 #EXTINF:-1 tvg-id="9306" tvg-name="DE : Eurosport 1 HD" tvg-logo="" group-title="Germany",DE : Eurosport 1 HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2479.ts
-#EXTINF:-1 tvg-id="6" tvg-name="DE : Fox HD" tvg-logo="" group-title="Germany",DE : Fox HD
+#EXTINF:-1 tvg-id="FoxSerie.de" tvg-name="Fox Serie" tvg-logo="" group-title="Germany",Fox Serie
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2480.ts
 #EXTINF:-1 tvg-id="115" tvg-name="DE : RTL Crime HD" tvg-logo="" group-title="Germany",DE : RTL Crime HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2481.ts
