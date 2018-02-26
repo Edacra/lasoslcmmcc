@@ -414,5 +414,6 @@
     <channel update="i" site="vodafone.de" site_id="4117" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
     <channel update="i" site="vodafone.de" site_id="4105" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
     <channel update="i" site="vodafone.de" site_id="2129" xmltv_id="Zee.One">Zee.One</channel>
+    <channel update="i" site="klack.de" site_id="142/rtl-nitro" xmltv_id="RTL NITRO">RTL NITRO</channel>
 
   </channels>
