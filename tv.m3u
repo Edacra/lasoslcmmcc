@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="-----GERMANY-----" tvg-logo="" group-title="Germany",-----GERMANY-----
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/551.ts
-#EXTINF:-1 tvg-id="4128" tvg-name="RTL Nitro" tvg-logo="" group-title="Germany", RTL Nitro
+#EXTINF:-1 tvg-id="4947" tvg-name="RTL NITRO" tvg-logo="" group-title="Germany", RTL Nitro
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/502.ts
-#EXTINF:-1 tvg-id="5" tvg-name="DE: Sat 1" tvg-logo="" group-title="Germany",DE: Sat 1
+#EXTINF:-1 tvg-id="5" tvg-name="SAT.1" tvg-logo="" group-title="Germany",DE: Sat 1
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/503.ts
 #EXTINF:-1 tvg-id="3798" tvg-name="DE: sat 1 emotions" tvg-logo="" group-title="Germany",DE: sat 1 emotions
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/504.ts
