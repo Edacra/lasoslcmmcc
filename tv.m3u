@@ -15,9 +15,9 @@ http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/506.ts
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/507.ts
 #EXTINF:-1 tvg-id="448" tvg-name="DE: Sky Cinema  1 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema  1 HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/517.ts
-#EXTINF:-1 tvg-id="65" tvg-name="DE: SKY CINEMA  24" tvg-logo="" group-title="Germany",DE: SKY CINEMA  24
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky_Cinema_+24" tvg-logo="" group-title="Germany",DE: SKY CINEMA  24
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/518.ts
-#EXTINF:-1 tvg-id="447" tvg-name="DE: Sky Cinema HD" tvg-logo="" group-title="Germany",DE: Sky Cinema HD
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky_Cinema" tvg-logo="" group-title="Germany",DE: Sky Cinema HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/519.ts
 #EXTINF:-1 tvg-id="62" tvg-name="DE: Sky Comedy HD" tvg-logo="" group-title="Germany",DE: Sky Comedy HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/520.ts
