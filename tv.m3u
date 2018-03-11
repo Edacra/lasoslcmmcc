@@ -206,19 +206,19 @@ http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2556.ts
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="" group-title="Germany",DE: ZDF
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/550.ts
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1979.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA ABC HD" tvg-logo="" group-title="USA",ABC HD
+#EXTINF:-1 tvg-id="I1.10003.zap2it.com" tvg-name="ABC" tvg-logo="" group-title="USA",ABC HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1935.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: FOX 43" tvg-logo="" group-title="USA",FOX 43
+#EXTINF:-1 tvg-id="I4.10212.zap2it.com" tvg-name="FOX" tvg-logo="" group-title="USA",FOX 43
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2041.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA CBS" tvg-logo="" group-title="USA",CBS
+#EXTINF:-1 tvg-id="I2.10098.zap2it.com" tvg-name="CBS" tvg-logo="" group-title="USA",CBS
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1938.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA : AMC HD" tvg-logo="" group-title="USA",AMC HD
+#EXTINF:-1 tvg-id="I14.10021.zap2it.com" tvg-name="AMC" tvg-logo="" group-title="USA",AMC HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1910.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA CW HD" tvg-logo="" group-title="USA",CW HD
+#EXTINF:-1 tvg-id="I5.51306.zap2it.com" tvg-name="CW" tvg-logo="" group-title="USA",CW HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1940.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | A&E HD" tvg-logo="" group-title="USA",A&E HD
+#EXTINF:-1 tvg-id="I12.10035.zap2it.com" tvg-name="AETV" tvg-logo="" group-title="USA",A&E HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1958.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: MTV HD" tvg-logo="" group-title="USA",MTV HD
+#EXTINF:-1 tvg-id="I71.10986.zap2it.com" tvg-name="MTV" tvg-logo="" group-title="USA",MTV HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4511.ts
 
 
