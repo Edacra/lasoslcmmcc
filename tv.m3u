@@ -155,9 +155,9 @@ http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2584.ts
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2585.ts
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="" group-title="Germany",DE: Nickelodeon
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2586.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Orf 1" tvg-logo="" group-title="Germany",DE: Orf 1
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF eins" tvg-logo="" group-title="Germany",DE: Orf 1
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2587.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Orf 2" tvg-logo="" group-title="Germany",DE: Orf 2
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="" group-title="Germany",DE: Orf 2
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2588.ts
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-logo="" group-title="Germany",DE: Pro7
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2589.ts
@@ -205,3 +205,15 @@ http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2558.ts
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2556.ts
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="" group-title="Germany",DE: ZDF
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/550.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA ABC HD" tvg-logo="" group-title="USA",USA ABC HD
+http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1935.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX 43" tvg-logo="" group-title="USA",USA: FOX 43
+http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2041.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA CBS" tvg-logo="" group-title="USA",USA CBS
+http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1938.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : AMC HD" tvg-logo="" group-title="USA",USA : AMC HD
+http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1910.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | A&E HD" tvg-logo="" group-title="USA",USA | A&E HD
+http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1958.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV HD" tvg-logo="" group-title="USA",USA: MTV HD
+http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4511.ts
