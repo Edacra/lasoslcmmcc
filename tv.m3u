@@ -207,7 +207,7 @@ http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2556.ts
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/550.ts
 #EXTINF:-1 tvg-id="I1.10003.zap2it.com" tvg-name="ABC" tvg-logo="" group-title="USA",ABC HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1935.ts
-#EXTINF:-1 tvg-id="I4.10212.zap2it.com" tvg-name="FOX" tvg-logo="" group-title="USA",FOX 43
+#EXTINF:-1 tvg-id="I4.10212.zap2it.com" tvg-name="4" tvg-logo="" group-title="USA",FOX 43
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2041.ts
 #EXTINF:-1 tvg-id="I2.10098.zap2it.com" tvg-name="CBS" tvg-logo="" group-title="USA",CBS
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1938.ts
@@ -217,9 +217,9 @@ http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1910.ts
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1940.ts
 #EXTINF:-1 tvg-id="I12.10035.zap2it.com" tvg-name="AETV" tvg-logo="" group-title="USA",A&E HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1958.ts
-#EXTINF:-1 tvg-id="I71.10986.zap2it.com" tvg-name="MTV" tvg-logo="" group-title="USA",MTV HD
+#EXTINF:-1 tvg-id="I71.10986.zap2it.com" tvg-name="71" tvg-logo="" group-title="USA",MTV HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4511.ts
-#EXTINF:-1 tvg-id="I26.10149.zap2it.com" tvg-name="COMEDY" tvg-logo="" group-title="USA",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="I26.10149.zap2it.com" tvg-name="26" tvg-logo="" group-title="USA",COMEDY CENTRAL HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1939.ts
 #EXTINF:-1 tvg-id="I44.17927.zap2it.com" tvg-name="44" tvg-logo="" group-title="USA",FXX
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1919.ts
