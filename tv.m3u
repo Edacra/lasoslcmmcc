@@ -227,9 +227,9 @@ http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1919.ts
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4512.ts
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel_4" tvg-logo"" group title="UK",Channel 4 HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1854.ts
-#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC_1_HD" tvg-logo"" group title="UK",BBC One HD
+#EXTINF:-1 tvg-id="BBC1East.uk" tvg-name="BBC_1_East" tvg-logo"" group title="UK",BBC One HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1719.ts
-#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV1_London" tvg-logo"" group title="UK",ITV1
+#EXTINF:-1 tvg-id="ITV1Border.uk" tvg-name="ITV1_Border_North" tvg-logo"" group title="UK",ITV1
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4001.ts
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC_Two_HD" tvg-logo"" group title="UK",BBC Two
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1874.ts
