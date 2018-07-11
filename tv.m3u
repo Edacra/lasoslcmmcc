@@ -3,175 +3,171 @@
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/551.ts
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL_Nitro" tvg-logo="rtlnitro hd.png" group-title="Germany", RTL NITRO
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/502.ts
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-logo="" group-title="Germany",DE: Sat 1
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-logo="sat1 austria hd.png" group-title="Germany",DE: Sat 1
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/503.ts
-#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky_Action" tvg-logo="" group-title="Germany",DE: Sky Action HD
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky_Action" tvg-logo="sky action hd.png" group-title="Germany",DE: Sky Action HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/505.ts
-#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky_Atlantic_HD" tvg-logo="" group-title="Germany",DE: SKY ATLANTIC HD
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky_Atlantic_HD" tvg-logo="sky atlantic hd.png" group-title="Germany",DE: SKY ATLANTIC HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/506.ts
-#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky_Bundesliga" tvg-logo="" group-title="Germany",DE: Sky Bundesliga 1 HD
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky_Bundesliga" tvg-logo="sky bundesliga hd 1.png" group-title="Germany",DE: Sky Bundesliga 1 HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/507.ts
-#EXTINF:-1 tvg-id="SkyCinemaPlus1.de" tvg-name="Sky_Cinema_+1" tvg-logo="" group-title="Germany",DE: Sky Cinema  1 HD
+#EXTINF:-1 tvg-id="SkyCinemaPlus1.de" tvg-name="Sky_Cinema_+1" tvg-logo="sky cinema hd.png" group-title="Germany",DE: Sky Cinema  1 HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/517.ts
-#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky_Cinema_+24" tvg-logo="" group-title="Germany",DE: SKY CINEMA  24
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky_Cinema_+24" tvg-logo="sky cinema hd.png" group-title="Germany",DE: SKY CINEMA  24
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/518.ts
-#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky_Cinema" tvg-logo="" group-title="Germany",DE: Sky Cinema HD
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky_Cinema" tvg-logo="sky cinema hd.png" group-title="Germany",DE: Sky Cinema HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/519.ts
-#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="Sky_Comedy" tvg-logo="" group-title="Germany",DE: Sky Comedy HD
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="Sky_Comedy" tvg-logo="sky comedy.png" group-title="Germany",DE: Sky Comedy HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/520.ts
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney_Channel" tvg-logo="" group-title="Germany",DE: Sky Disney HD
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney_Channel" tvg-logo="disney channel hd.png" group-title="Germany",DE: Sky Disney HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/521.ts
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX" tvg-logo="" group-title="Germany",DE: Sky DMAX HD
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX" tvg-logo="dmax hd austria.png" group-title="Germany",DE: Sky DMAX HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/522.ts
-#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="Sky_Emotion" tvg-logo="" group-title="Germany",DE: Sky Emotion HD
+#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="Sky_Emotion" tvg-logo="sky emotion.png" group-title="Germany",DE: Sky Emotion HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/523.ts
-#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="Sky_Cinema_Hits" tvg-logo="" group-title="Germany",DE: Sky Hits HD
+#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="Sky_Cinema_Hits" tvg-logo="sky cinema hits hd.png" group-title="Germany",DE: Sky Hits HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/524.ts
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky_Sport_1" tvg-logo="" group-title="Germany",DE: Sky Sport 1 HD
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky_Sport_1" tvg-logo="sky sport hd 1.png" group-title="Germany",DE: Sky Sport 1 HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/533.ts
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky_Sport_2" tvg-logo="" group-title="Germany",DE: Sky Sport 2 HD
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky_Sport_2" tvg-logo="sky sport hd 2.png" group-title="Germany",DE: Sky Sport 2 HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/536.ts
-#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT_Serie" tvg-logo="" group-title="Germany",DE: Sky TNT Serie HD
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT_Serie" tvg-logo="tnt serie hd.png" group-title="Germany",DE: Sky TNT Serie HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/545.ts
-#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal_Channel" tvg-logo="" group-title="Germany",DE: Sky Universal HD
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal_Channel" tvg-logo="universal hd.png" group-title="Germany",DE: Sky Universal HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/546.ts
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super_RTL" tvg-logo="" group-title="Germany",DE: SUPER RTL HD
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super_RTL" tvg-logo="super rtl hd.png" group-title="Germany",DE: SUPER RTL HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/547.ts
-#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT_Serie" tvg-logo="" group-title="Germany",DE: TNT Serie
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT_Serie" tvg-logo="tnt serie hd.png" group-title="Germany",DE: TNT Serie
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/548.ts
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX" tvg-logo="" group-title="Germany",DE: VOX
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX" tvg-logo="vox hd austria.png" group-title="Germany",DE: VOX
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/549.ts
-#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney_Cinemagic" tvg-logo="" group-title="Germany",DE : Disney Cinemagic HD
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney_Cinemagic" tvg-logo="disney cine hd.png" group-title="Germany",DE : Disney Cinemagic HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2478.ts
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport1" tvg-logo="" group-title="Germany",DE : Eurosport 1 HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2479.ts
-#EXTINF:-1 tvg-id="FoxSerie.de" tvg-name="Fox Serie" tvg-logo="" group-title="Germany",Fox HD
+#EXTINF:-1 tvg-id="FoxSerie.de" tvg-name="Fox Serie" tvg-logo="fox hd.png" group-title="Germany",Fox HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2480.ts
-#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL_Crime" tvg-logo="" group-title="Germany",DE : RTL Crime HD
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL_Crime" tvg-logo="rtl crime hd.png" group-title="Germany",DE : RTL Crime HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2481.ts
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="" group-title="Germany",DE : RTL HD
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="rtl hd.png" group-title="Germany",DE : RTL HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2482.ts
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL_II" tvg-logo="" group-title="Germany",DE : RTL2
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL_II" tvg-logo="rtl2 hd.png" group-title="Germany",DE : RTL2
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2485.ts
-#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky_Atlantic_HD" tvg-logo="" group-title="Germany",DE : Sky atlantic
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky_Atlantic_HD" tvg-logo="sky atlantic hd.png" group-title="Germany",DE : Sky atlantic
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2486.ts
-#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky_Atlantic_HD" tvg-logo="" group-title="Germany",Sky Atlantic HD
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky_Atlantic_HD" tvg-logo="sky atlantic hd.png" group-title="Germany",Sky Atlantic HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2487.ts
-#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky_Krimi" tvg-logo="" group-title="Germany",DE : Sky Krimi
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky_Krimi" tvg-logo="sky krimi.png" group-title="Germany",DE : Sky Krimi
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2488.ts
 #EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-logo="" group-title="Germany",DE : Sport 1  HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2491.ts
-#EXTINF:-1 tvg-id="SciFi.de" tvg-name="Syfy_HD" tvg-logo="" group-title="Germany",DE : Syfy
+#EXTINF:-1 tvg-id="SciFi.de" tvg-name="Syfy_HD" tvg-logo="syfy hd.png" group-title="Germany",DE : Syfy
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2492.ts
-#EXTINF:-1 tvg-id="TNTGlitz.de" tvg-name="TNT_Comedy" tvg-logo="" group-title="Germany",DE : TNT Comedy
+#EXTINF:-1 tvg-id="TNTGlitz.de" tvg-name="TNT_Comedy" tvg-logo="tnt comedy hd.png" group-title="Germany",DE : TNT Comedy
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2493.ts
-#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT_Film" tvg-logo="" group-title="Germany",DE : TNT Film TCM
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT_Film" tvg-logo="tnt film hd.png" group-title="Germany",DE : TNT Film TCM
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2494.ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th_Street" tvg-logo="" group-title="Germany",DE VIP: 13th Street HD 1080P
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th_Street" tvg-logo="13th street hd.png" group-title="Germany",DE VIP: 13th Street HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2459.ts
-#EXTINF:-1 tvg-id="AandE.de" tvg-name="A_and_E" tvg-logo="" group-title="Germany",A and E
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="A_and_E" tvg-logo="a&e.png" group-title="Germany",A and E
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2458.ts
-#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN" tvg-logo="" group-title="Germany",DE VIP: AXN HD 1080P
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN" tvg-logo="axn action hd.png" group-title="Germany",DE VIP: AXN HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2456.ts
-#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="Discovery_HD" tvg-logo="" group-title="Germany",DE VIP: Discovery HD 1080P
+#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="Discovery_HD" tvg-logo="discovery channel hd.png" group-title="Germany",DE VIP: Discovery HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2455.ts
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney_Channel" tvg-logo="" group-title="Germany",DE VIP: Disney Channel HD 1080P
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney_Channel" tvg-logo="disney channel hd.png" group-title="Germany",DE VIP: Disney Channel HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2454.ts
-#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney_Cinemagic" tvg-logo="" group-title="Germany",DE VIP: Disney Cinemagic HD 1080P
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney_Cinemagic" tvg-logo="disney cine hd.png" group-title="Germany",DE VIP: Disney Cinemagic HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2453.ts
-#EXTINF:-1 tvg-id="FoxSerie.de" tvg-name="Fox_Serie" tvg-logo="" group-title="Germany",DE VIP: FOX HD 1080P
+#EXTINF:-1 tvg-id="FoxSerie.de" tvg-name="Fox_Serie" tvg-logo="fox hd.png" group-title="Germany",DE VIP: FOX HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2452.ts
-#EXTINF:-1 tvg-id="HistoryHD.de" tvg-name="History_HD" tvg-logo="" group-title="Germany",DE VIP: History HD 1080P
+#EXTINF:-1 tvg-id="HistoryHD.de" tvg-name="History_HD" tvg-logo="history hd.png" group-title="Germany",DE VIP: History HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2451.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv" tvg-logo="" group-title="Germany",DE VIP: N-TV HD 1080P
-http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2449.ts
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="Nat_Geo_Wild" tvg-logo="" group-title="Germany",DE VIP: Nat Geo Wild HD 1080P
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="Nat_Geo_Wild" tvg-logo="nat geo wild hd.png" group-title="Germany",DE VIP: Nat Geo Wild HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2448.ts
-#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="Nat_Geographic" tvg-logo="" group-title="Germany",DE VIP: NatGeo HD 1080P
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="Nat_Geographic" tvg-logo="national geo hd.png" group-title="Germany",DE VIP: NatGeo HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2447.ts
-#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="Nat_Geographic" tvg-logo="" group-title="Germany",DE VIP: National Geographic HD 1080P
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="Nat_Geographic" tvg-logo="national geo hd.png" group-title="Germany",DE VIP: National Geographic HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2446.ts
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-logo="" group-title="Germany",DE VIP: PRO 7 HD 1080P
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-logo="pro 7 hd.png" group-title="Germany",DE VIP: PRO 7 HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2445.ts
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="" group-title="Germany",DE VIP: ProSieben Maxx HD 1080P
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="prosieben maxx hd.png" group-title="Germany",DE VIP: ProSieben Maxx HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2444.ts
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL_II" tvg-logo="" group-title="Germany",DE VIP: RTL 2 HD 1080P
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL_II" tvg-logo="rtl2 hd.png" group-title="Germany",DE VIP: RTL 2 HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2443.ts
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="" group-title="Germany",DE VIP: RTL HD 1080P
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="rtl hd.png" group-title="Germany",DE VIP: RTL HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2442.ts
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL_Nitro" tvg-logo="" group-title="Germany",DE VIP: RTL NITRO HD 1080P
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL_Nitro" tvg-logo="rtlnitro hd.png" group-title="Germany",DE VIP: RTL NITRO HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2441.ts
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-logo="" group-title="Germany",DE VIP: SAT.1 HD 1080P
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-logo="sat1 austria hd.png" group-title="Germany",DE VIP: SAT.1 HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2440.ts
-#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky_Action" tvg-logo="" group-title="Germany",DE VIP: Sky Action HD 1080P
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky_Action" tvg-logo="sky action hd.png" group-title="Germany",DE VIP: Sky Action HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2438.ts
-#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky_Atlantic_HD" tvg-logo="" group-title="Germany",DE VIP: Sky Atlantic HD 1080P
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky_Atlantic_HD" tvg-logo="sky atlantic hd.png" group-title="Germany",DE VIP: Sky Atlantic HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2437.ts
-#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky_Cinema" tvg-logo="" group-title="Germany",DE VIP: Sky Cinema HD 1080P
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky_Cinema" tvg-logo="sky cinema hd.png" group-title="Germany",DE VIP: Sky Cinema HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2436.ts
-#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="Sky_Cinema_Hits" tvg-logo="" group-title="Germany",DE VIP: Sky Hits HD 1080P
+#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="Sky_Cinema_Hits" tvg-logo="sky cinema hits hd.png" group-title="Germany",DE VIP: Sky Hits HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2435.ts
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super_RTL" tvg-logo="" group-title="Germany",DE VIP: SUPER RTL HD 1080P
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super_RTL" tvg-logo="super rtl hd.png" group-title="Germany",DE VIP: SUPER RTL HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2434.ts
-#EXTINF:-1 tvg-id="SciFi.de" tvg-name="Syfy_HD" tvg-logo="" group-title="Germany",DE VIP: SyFy HD 1080P
+#EXTINF:-1 tvg-id="SciFi.de" tvg-name="Syfy_HD" tvg-logo="syfy hd.png" group-title="Germany",DE VIP: SyFy HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2433.ts
-#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT_Serie" tvg-logo="" group-title="Germany",DE VIP: TNT Serie HD 1080P
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT_Serie" tvg-logo="tnt serie hd.png" group-title="Germany",DE VIP: TNT Serie HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2432.ts
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX" tvg-logo="" group-title="Germany",DE VIP: VOX HD 1080P
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX" tvg-logo="vox hd austria.png" group-title="Germany",DE VIP: VOX HD 1080P
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2431.ts
-#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="Sky_Cinema_Hits" tvg-logo="" group-title="Germany",DE:  Sky Cinema Hits
+#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="Sky_Cinema_Hits" tvg-logo="sky cinema hits hd.png" group-title="Germany",DE:  Sky Cinema Hits
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2500.ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th_Street" tvg-logo="" group-title="Germany",DE: 13th Street
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th_Street" tvg-logo="13th street hd.png" group-title="Germany",DE: 13th Street
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2567.ts
-#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN" tvg-logo="" group-title="Germany",DE: AXN HD Germany
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN" tvg-logo="axn action hd.png" group-title="Germany",DE: AXN HD Germany
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2569.ts
-#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang" tvg-logo="" group-title="Germany",DE: Boomerang
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="Germany",DE: Boomerang
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2570.ts
-#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky_Fußball_Bundesliga" tvg-logo="" group-title="Germany",DE: Bundesliga 1
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky_Fußball_Bundesliga" tvg-logo="sky bundesliga hd 1.png" group-title="Germany",DE: Bundesliga 1
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2571.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon_Network" tvg-logo="" group-title="Germany",DE: Cartoon Network Germany
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon_Network" tvg-logo="cartoon network (s).png" group-title="Germany",DE: Cartoon Network Germany
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2572.ts
-#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="Discovery_HD" tvg-logo="" group-title="Germany",DE: Discovery HD
+#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="Discovery_HD" tvg-logo="discovery channel hd.png" group-title="Germany",DE: Discovery HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2575.ts
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney_Channel" tvg-logo="" group-title="Germany",DE: Disney Channel HD Germany
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney_Channel" tvg-logo="disney channel hd.png" group-title="Germany",DE: Disney Channel HD Germany
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2576.ts
-#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney_Cinemagic" tvg-logo="" group-title="Germany",DE: Disney Cinemagic HD
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney_Cinemagic" tvg-logo="disney cine hd.png" group-title="Germany",DE: Disney Cinemagic HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2577.ts
-#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney_Junior" tvg-logo="" group-title="Germany",DE: Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney_Junior" tvg-logo="disney junior hd.png" group-title="Germany",DE: Disney Junior
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2578.ts
-#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="Disney_XD" tvg-logo="" group-title="Germany",DE: Disney XD Deutschland
+#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="Disney_XD" tvg-logo="disney xd.png" group-title="Germany",DE: Disney XD Deutschland
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2579.ts
-#EXTINF:-1 tvg-id="Kabel.de" tvg-name="kabel_eins" tvg-logo="" group-title="Germany",DE: Kabel 1
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="kabel_eins" tvg-logo="kabel 1 hd.png" group-title="Germany",DE: Kabel 1
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2580.ts
-#EXTINF:-1 tvg-id="Kabel.de" tvg-name="kabel_eins" tvg-logo="" group-title="Germany",DE: Kabel Eins
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="kabel_eins" tvg-logo="kabel 1 hd.png" group-title="Germany",DE: Kabel Eins
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2562.ts
-#EXTINF:-1 tvg-id="MGM.de" tvg-name="MGM" tvg-logo="" group-title="Germany",DE: MGM HD
+#EXTINF:-1 tvg-id="MGM.de" tvg-name="MGM" tvg-logo="puls 4 hd austria.png" group-title="Germany",DE: Puls 4
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2582.ts
-#EXTINF:-1 tvg-id="n24.de" tvg-name="N24" tvg-logo="" group-title="Germany",DE: N24
-http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2583.ts
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Germany",DE: NatGeo Wild HD Germany
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="Nat Geo Wild" tvg-logo="nat geo wild hd.png" group-title="Germany",DE: NatGeo Wild HD Germany
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2584.ts
-#EXTINF:-1 tvg-id="NatGeoHD.de" tvg-name="Nat_Geographic_HD" tvg-logo="" group-title="Germany",DE: National Geographic HD Germany
+#EXTINF:-1 tvg-id="NatGeoHD.de" tvg-name="Nat_Geographic_HD" tvg-logo="national geo hd.png" group-title="Germany",DE: National Geographic HD Germany
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2585.ts
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="" group-title="Germany",DE: Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="nickelodeon hd austria.png" group-title="Germany",DE: Nickelodeon
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2586.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",DE: Orf 1
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2587.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",DE: Orf 2
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2588.ts
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-logo="" group-title="Germany",DE: Pro7
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-logo="pro 7 hd.png" group-title="Germany",DE: Pro7
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2589.ts
-#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben_Fun" tvg-logo="" group-title="Germany",DE: Pro7 Fun HD
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben_Fun" tvg-logo="pro7 fun hd.png" group-title="Germany",DE: Pro7 Fun HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2529.ts
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben_Maxx" tvg-logo="" group-title="Germany",DE: Pro7 Maxx HD
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben_Maxx" tvg-logo="prosieben maxx hd.png" group-title="Germany",DE: Pro7 Maxx HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2528.ts
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-logo="" group-title="Germany",DE: ProSieben HD ( 1080P )
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-logo="pro 7 hd.png" group-title="Germany",DE: ProSieben HD ( 1080P )
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2517.ts
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben_Maxx" tvg-logo="" group-title="Germany",DE: ProSieben Maxx HD ( 1080P )
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben_Maxx" tvg-logo="prosieben maxx hd.png" group-title="Germany",DE: ProSieben Maxx HD ( 1080P )
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2516.ts
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="" group-title="Germany",DE: RTL
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="rtl hd.png" group-title="Germany",DE: RTL
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2590.ts
-#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV" tvg-logo="" group-title="Germany",DE: MTV HD ( 1080P )
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV" tvg-logo="mtv germany.png" group-title="Germany",DE: MTV HD ( 1080P )
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4392.ts
 #EXTINF:-1 tvg-id="149" tvg-name="DE: Sky BUNDESLIGA 10 HD ( During Games only )" tvg-logo="" group-title="Germany",DE: Sky BUNDESLIGA 10 HD ( During Games only )
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4416.ts
@@ -191,19 +187,19 @@ http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4422.ts
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4423.ts
 #EXTINF:-1 tvg-id="149" tvg-name="DE: Sky BUNDESLIGA 9 HD ( During Games only )" tvg-logo="" group-title="Germany",DE: Sky BUNDESLIGA 9 HD ( During Games only )
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/4424.ts
-#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="Sky_Family" tvg-logo="" group-title="Germany",DE: Sky Cinema Family
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="Sky_Family" tvg-logo="sky cinema family hd.png" group-title="Germany",DE: Sky Cinema Family
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2497.ts
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel_Geschichte" tvg-logo="" group-title="Germany",DE: SPIEGEL TV Wissen HD
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel_Geschichte" tvg-logo="spiegel tv wissen hd.png" group-title="Germany",DE: SPIEGEL TV Wissen HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2507.ts
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="" group-title="Germany",DE: TLC HD ( 1080P )
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="tlc europe.png" group-title="Germany",DE: TLC HD ( 1080P )
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2503.ts
-#EXTINF:-1 tvg-id="TNTGlitz.de" tvg-name="TNT_Comedy" tvg-logo="" group-title="Germany",DE: TNT Comedy HD ( 1080P )
+#EXTINF:-1 tvg-id="TNTGlitz.de" tvg-name="TNT_Comedy" tvg-logo="tnt comedy hd.png" group-title="Germany",DE: TNT Comedy HD ( 1080P )
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2502.ts
-#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="VIVA/COMEDY CENTRAL" tvg-logo="" group-title="Germany",DE: VIVA
+#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="VIVA/COMEDY CENTRAL" tvg-logo="comedy central.png" group-title="Germany",DE: VIVA
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2558.ts
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-logo="" group-title="Germany",DE: ZDF NEO HD
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-logo="zdf_neo hd.png" group-title="Germany",DE: ZDF NEO HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/2556.ts
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="" group-title="Germany",DE: ZDF
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="zdf hd.png" group-title="Germany",DE: ZDF
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/550.ts
 #EXTINF:-1 tvg-id="I.5942.tvguide.com" tvg-name="ABC" tvg-logo="" group-title="USA",ABC HD
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/1935.ts
