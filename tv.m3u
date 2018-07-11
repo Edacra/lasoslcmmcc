@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="-----GERMANY-----" tvg-logo="" group-title="Germany",-----GERMANY-----
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/551.ts
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL_Nitro" tvg-logo="" group-title="Germany", RTL NITRO
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL_Nitro" tvg-logo="rtlnitro hd.png" group-title="Germany", RTL NITRO
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/502.ts
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-logo="" group-title="Germany",DE: Sat 1
 http://ipthost.com:25461/live/8zfDkb9SkK/0YyFPUKJim/503.ts
